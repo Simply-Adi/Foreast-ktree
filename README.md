@@ -11,6 +11,9 @@ Libraries offering Ready-to-use Benchmark Models
 News and Area Updates
 1. Alpha Signal [https://alphasignal.ai/]
 
+Explainable Time Series Forecasting with ML/DL models
+1. Explainable AI for Financial Forecasting [https://link.springer.com/chapter/10.1007/978-3-030-95470-3_5#:~:text=Using%20explainable%20artificial%20intelligence%20methods,a%20set%20of%20input%20stocks.]
+2. 
 
 Competition and Data Resources
 1. Monash Time Series Forecasting Repository [https://forecastingdata.org/]
