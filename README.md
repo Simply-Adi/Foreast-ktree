@@ -16,6 +16,12 @@ Explainable Time Series Forecasting with ML/DL models
 2. Revealing drivers and risks for power grid frequency stability with explainable AI [ https://www.sciencedirect.com/science/article/pii/S2666389921002270]
 
 
+Changepoint Packages
+1. R: https://lindeloev.github.io/mcp/articles/packages.html
+2. Python: sdt
+
+
+
 Review of Pakages:
 1. A systematic review of Python packages for time series analysis [https://arxiv.org/abs/2104.07406]
 
