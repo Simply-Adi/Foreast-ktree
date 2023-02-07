@@ -25,7 +25,7 @@ Changepoint Packages
 Review of Pakages:
 1. A systematic review of Python packages for time series analysis [https://arxiv.org/abs/2104.07406]
 
-Model	Library	Language
+Time-varying Forecasting Models	
 - time-varying MLR	tvReg	R
 - time-varying VAR	statsmodels [https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_tvpvar_mcmc_cfa.html]	Python
 Conceptual Paper: Time-Varying Parameter Vector Autoregressions: Specification, Estimation, and an Application [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864239]
