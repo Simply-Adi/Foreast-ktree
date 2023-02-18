@@ -11,6 +11,26 @@ Libraries offering Ready-to-use Benchmark Models
 News and Area Updates
 1. Alpha Signal [https://alphasignal.ai/]
 
+
+Conceptualising Models
+-Hypernetworks
+https://blog.otoro.net/2016/09/28/hyper-networks/
+https://github.com/labmlai/annotated_deep_learning_paper_implementations/blob/master/labml_nn/hypernetworks/experiment.ipynb
+
+-Keras LSTM
+https://zhuanlan.zhihu.com/p/58854907
+
+-GAM
+https://adibender.github.io/pammtools/articles/tveffects.html#pam-with-smooth-smoothly-time-varying-effect-of-the-karnofsky-score
+https://cran.r-project.org/web/packages/mgcv/mgcv.pdf
+https://stats.stackexchange.com/questions/45446/intuition-behind-tensor-product-interactions-in-gams-mgcv-package-in-r
+https://patsy.readthedocs.io/en/latest/spline-regression.html#
+https://fromthebottomoftheheap.net/2015/11/21/climate-change-and-spline-interactions/
+https://uc-r.github.io/mars
+
+Cost-aware forecasting
+-https://stats.stackexchange.com/questions/479344/forecast-of-a-time-series-model-by-taking-into-account-over-under-cost
+
 Explainable Time Series Forecasting with ML/DL models
 1. Explainable AI for Financial Forecasting [https://link.springer.com/chapter/10.1007/978-3-030-95470-3_5#:~:text=Using%20explainable%20artificial%20intelligence%20methods,a%20set%20of%20input%20stocks.]
 2. Revealing drivers and risks for power grid frequency stability with explainable AI [ https://www.sciencedirect.com/science/article/pii/S2666389921002270]
